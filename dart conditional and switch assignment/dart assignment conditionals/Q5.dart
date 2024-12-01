@@ -1,5 +1,5 @@
 void main() {
-  int oddEvenNum = 4;
+  int oddEvenNum = 7;
   if (oddEvenNum % 2 == 0) {
     print('$oddEvenNum is even');
   } else {
