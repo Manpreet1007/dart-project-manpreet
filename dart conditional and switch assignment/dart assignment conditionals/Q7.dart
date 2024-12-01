@@ -1,9 +1,9 @@
 void main() {
-  int physics = 85,
-      chemistry = 78,
-      biology = 90,
-      mathematics = 92,
-      computer = 89;
+  int physics = 79,
+      chemistry = 89,
+      biology = 98,
+      mathematics = 95,
+      computer = 99;
   int total = physics + chemistry + biology + mathematics + computer;
   double percentage = total / 5;
 
