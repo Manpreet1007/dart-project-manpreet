@@ -3,5 +3,5 @@ int maxOfThree(int a, int b, int c) {
 }
 
 void main() {
-  print(maxOfThree(3, 5, 2));
+  print(maxOfThree(6, 0, 45));
 }
