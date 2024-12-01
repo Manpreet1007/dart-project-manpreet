@@ -1,5 +1,5 @@
 void main() {
-  int num = -5;
+  int num = -67;
   if (num > 0) {
     print('$num is positive');
   } else if (num < 0) {
