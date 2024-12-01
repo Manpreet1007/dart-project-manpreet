@@ -7,5 +7,5 @@ int sumOfList(List<int> numbers) {
 }
 
 void main() {
-  print(sumOfList([1, 2, 3]));
+  print(sumOfList([8, 9, 10]));
 }
