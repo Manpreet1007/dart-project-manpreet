@@ -3,5 +3,5 @@ List<T> mergeLists<T>(List<T> list1, List<T> list2) {
 }
 
 void main() {
-  print(mergeLists([1, 2], [3, 4])); // Output: [1, 2, 3, 4]
+  print(mergeLists([2, 3], [4, 5])); // Output: [2, 3, 4, 5]
 }
