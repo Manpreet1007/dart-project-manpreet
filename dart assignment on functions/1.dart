@@ -3,5 +3,5 @@ int add(int a, int b) {
 }
 
 void main() {
-  print(add(8, 14));
+  print(add(9, 24));
 }
