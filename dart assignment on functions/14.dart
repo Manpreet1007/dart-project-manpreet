@@ -3,5 +3,5 @@ List<T> reverseList<T>(List<T> list) {
 }
 
 void main() {
-  print(reverseList([1, 2, 3]));
+  print(reverseList([6, 7, 8]));
 }
